@@ -1,0 +1,17 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Hello :wave:! Thank you for contributing to Mozilla Indonesia open-source repositories. We love you and your issue :writing_hand:. Your issues, really help us with our project... "
+        pr-message: "Thank you for contributing to Mozilla Indonesia open-source repositories. We love you and your PR :sparkles::sparkles::sparkles:. Looking forward for your next PR"
+Footer
