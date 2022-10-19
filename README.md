@@ -6,7 +6,7 @@
 <a href="https://github.com/greenbrown/collab-community/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/greenbrown/collab-community?color=2b9348"></a>
 <a href="https://github.com/greenbrown/collab-community/blob/master/LICENSE"><img src="https://img.shields.io/github/license/greenbrown/collab-community?color=2b9348" alt="License Badge"/></a>
 <a hreaf="https://github.com/greenbrown/collab-community/issues"><img src="https://img.shields.io/github/issues/greenbrown/collab-community?color=pink&logo=github"/></a>
-[![GitHub PRs](https://img.shields.io/github/issues-pr/codemistic/Non-Code?style=social&logo=github)](https://github.com/codemistic/Non-Code/pulls)           [![GitHub forks](https://img.shields.io/github/forks/codemistic/Non-Code?logo=git)](https://github.com/codemistic/Non-Code/network)                        
+[![GitHub PRs](https://img.shields.io/github/issues-pr/greenbrown/collab-community?style=social&logo=github)](https://github.com/greenbrown/collab-community/pulls)           [![GitHub forks](https://img.shields.io/github/forks/greenbrown/collab-community?logo=git)](https://github.com/greenbrown/collab-community/network)                        
 
 
 Steps to contribute in this repository
